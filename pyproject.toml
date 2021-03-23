@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fairlay"
-version = "0.1.0"
+version = "0.1.1"
 description = "Fairlay Client for Python 3.8+"
 authors = ["jim zhou <43537315+jimtje@users.noreply.github.com>"]
 license = "MIT"
